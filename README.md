@@ -17,7 +17,8 @@ test_RT.py - содержит тесты для проверки автомат�
 
 
 
-Запустить тесты командой: python -m pytest -v --driver Chrome --driver-path path\to\chromedriver.exe/test_RT.py
+Запустить тесты командой: python -m pytest -v --driver Chrome --driver-path path\to\chromedriver.exe\test_RT.py
+
 
 
 
