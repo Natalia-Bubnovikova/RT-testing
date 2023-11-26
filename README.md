@@ -1,4 +1,4 @@
-# RT-testing
+# Rostelekom-testing
 settings.py - содержит данные для ввода
 
 
